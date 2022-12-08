@@ -1,4 +1,4 @@
-# docker-compose mongodb boilerplate
+# docker-compose mongodb
 
 Runs an instance of mongodb and persists mongo files locally. Using this to experiment with mongodb and play around with a few projects
 
